@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **a.davila.berrios.123@gmail.com**
 
-- ⚡ Fun fact **I do a bit of game development when I have free time.**
+- ⚡ Fun fact: **I do a bit of game development when I have free time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
